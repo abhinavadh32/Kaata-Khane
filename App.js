@@ -13,6 +13,7 @@ export default function App() {
     <SafeAreaView style={styles.container}>
       <RestaurantsScreen />
       <StatusBar style="auto" />
+      <Text>Abhinav's App</Text>
     </SafeAreaView>
   );
 }
